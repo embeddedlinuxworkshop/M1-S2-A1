@@ -11,3 +11,4 @@ Assignment one for kernel module
 
 ### Expected output:
 - file with all commands used.
+- optional: screenshots.
